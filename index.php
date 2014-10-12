@@ -9,3 +9,8 @@ $aConfig['debug']            = FALSE;
 $aConfig['benchmark']        = FALSE;
 $aConfig['route']['default'] = 'Home';
 include_once($aConfig['frameworkUrl'] . 'init.php');
+
+
+#test
+
+
